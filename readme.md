@@ -1,3 +1,6 @@
+# Link to Live Generator:
+https://patricia-pan.github.io/fetch-dad-jokes-lab/
+
 # Dad Joke Generator
 
 We're going to use JavaScript to make a webpage that displays a random dad joke. We'll use the built-in `fetch` method to call an API that will give us jokes.
