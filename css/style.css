@@ -30,11 +30,6 @@ div#display_joke {
     padding: 5px;
 }
 
-
-
-
-
-
 footer {
     display: flex;
     align-items: center;
@@ -49,4 +44,8 @@ footer div {
 
 footer div#credit {
     font-style: italic;
+}
+
+footer a {
+    /* text-decoration: none; */
 }
