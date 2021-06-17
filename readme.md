@@ -1,5 +1,5 @@
 # Link to Live Generator:
-https://patricia-pan.github.io/fetch-dad-jokes-lab/
+https://trishapan.github.io/fetch-dad-jokes-lab/
 
 # Dad Joke Generator
 
